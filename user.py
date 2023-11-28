@@ -1,5 +1,5 @@
 
-
+#This function welcomes users
 
 def hey_user():
       print( "Welcome, make an account! " )
